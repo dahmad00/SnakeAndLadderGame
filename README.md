@@ -1,5 +1,5 @@
 # SnakeAndLadderGame
-Snake and Ladder Game made with C++
+This repository containst a Project "Snake and Ladder Game" made with C++. The game has four players, and follows the rules of a typical Snake and Ladder Game.
 
 Follow these steps to compile and run the game:
 
